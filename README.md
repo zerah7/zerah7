@@ -31,3 +31,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
 </p>
+<img src="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-contribution-grid-snake.svg" alt="Sarah's GitHub Contribution Snake"/>
