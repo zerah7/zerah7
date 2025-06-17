@@ -7,16 +7,16 @@
       <li style="font-size: 1.8em;">
         📬 Reach me:
         <a href="mailto:sarahchintu2003@gmail.com">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="50" align="absmiddle">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="40" align="absmiddle">
         </a>
         <a href="https://www.linkedin.com/in/sarah-mathew7/">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" align="absmiddle">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" align="absmiddle">
         </a>
       </li>
     </ul>
   </div>
   <div>
-    <img src="zerah.gif" alt="Sarah working" width="400" align="right">
+    <img src="zerah.gif" alt="Sarah working" width="350" align="right">
   </div>
 </div>
 <br>
