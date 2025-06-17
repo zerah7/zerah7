@@ -1,33 +1,36 @@
-<table border="0" style="width:100%;">
-  <tr>
-    <td valign="top" width="60%">
-      <h2>Hey there 👋, I'm Sarah Mathew</h2>
-      <ul style="font-size: 1.2em;">
-        <li>🎓 Final-year CSE student at MEC, Kochi</li>
-        <li>🤖 Passionate about tech and excited to explore AI and Machine Learning</li>
-        <li>📬 Reach me:
-          <a href="mailto:sarahchintu2003@gmail.com">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="22">
-          </a>
-          <a href="https://www.linkedin.com/in/sarah-mathew7/">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22">
-          </a>
-        </li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="zerah.gif" alt="Sarah working" width="300">
-    </td>
-  </tr>
-</table>
+# GitHub Action for generating a contribution graph with a snake eating your contributions
+name: Generate Snake
 
-<br>
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
 
-### 💻 Languages I Know
+jobs:
+  build:
+    # Add this line to grant write permissions
+    permissions:
+      contents: write
+      
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
-</p>
+      - uses: Platane/snk@v3
+        with:
+          # Your GitHub username
+          # IMPORTANT: Based on your screenshot, your username is sarah20037
+          github_user_name: sarah20037
+
+          # List of files to generate
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
