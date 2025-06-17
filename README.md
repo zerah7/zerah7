@@ -1,31 +1,33 @@
-<table>
+<table border="0" style="width:100%;">
   <tr>
-    <td width="60%" valign="top">
-
-      <h2>
-        Hi 👋, I'm Sarah Mathew 
-        <img src="zerah.gif" width="50" alt="Waving GIF" style="vertical-align: middle;" />
-      </h2>
-
-      <ul>
+    <td valign="top" width="70%">
+      <h2>Hey there 👋, I'm Sarah Mathew</h2>
+      <ul style="font-size: 2em;">
         <li>🎓 Final-year CSE student at MEC, Kochi</li>
         <li>🤖 Passionate about tech and excited to explore AI and Machine Learning</li>
-        <li>📫 Reach me: <a href="mailto:sarahchintu2003@gmail.com">sarahchintu2003@gmail.com</a></li>
         <li>
-          <a href="https://www.linkedin.com/in/sarah-mathew7/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+          <a href="mailto:sarahchintu2003@gmail.com">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="35">
+          </a>
+          <a href="https://www.linkedin.com/in/sarah-mathew7/">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35">
           </a>
         </li>
       </ul>
-
-      <h3>🧠 Languages I Know:</h3>
-      <p>
-        🐍 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python" />
-        ☕ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java" />
-        💻 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C" />
-        💻 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++" />
-      </p>
-
+    </td>
+    <td width="40%">
+      <img src="zerah.gif" alt="Sarah working" width="300">
     </td>
   </tr>
 </table>
+
+<br>
+
+### 💻 Languages I Know
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+</p>
