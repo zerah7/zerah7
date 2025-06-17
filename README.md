@@ -16,7 +16,7 @@
     </ul>
   </div>
   <div>
-    <img src="zerah.gif" alt="Sarah working" width="500" align="right">
+    <img src="zerah.gif" alt="Sarah working" width="400" align="right">
   </div>
 </div>
 <br>
