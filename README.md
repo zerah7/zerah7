@@ -36,10 +36,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sarah's GitHub Stats" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical" alt="Sarah's Top Languages" />
+  <br>
+ <img src="https://streak-stats.demolab.com?user=sarah20037&theme=radical&hide_border=true" alt="Sarah's GitHub Streak" />
+
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-contribution-grid-snake.svg" alt="Sarah's GitHub Contribution Snake"/>
 </p>
-
-<p align="center"><strong>🐍 Yes, my GitHub commits have slowed down — but I'm brewing something exciting behind the scenes! ☕</strong></p>
