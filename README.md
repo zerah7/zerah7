@@ -21,7 +21,6 @@
 </div>
 <br>
 
-
 ### 💻 Languages I Know
 
 <p>
@@ -29,6 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="70" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="70" alt="C++"/>
+</p>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sarah's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical" alt="Sarah's Top Languages" />
 </p>
 
 <p align="center">
