@@ -41,9 +41,8 @@
 
 </p>
 ### 🏅 GitHub Achievements
-
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sarah20037&theme=radical&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zerah7&theme=radical&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 <p align="center">
