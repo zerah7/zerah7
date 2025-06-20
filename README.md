@@ -33,9 +33,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarah20037&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sarah's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zerah7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Sarah's GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarah20037&layout=compact&theme=radical" alt="Sarah's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerah7&layout=compact&theme=radical" alt="Sarah's Top Languages" />
   <br>
  <img src="https://streak-stats.demolab.com?user=sarah20037&theme=radical&hide_border=true" alt="Sarah's GitHub Streak" />
 
