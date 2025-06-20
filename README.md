@@ -40,6 +40,11 @@
  <img src="https://streak-stats.demolab.com?user=sarah20037&theme=radical&hide_border=true" alt="Sarah's GitHub Streak" />
 
 </p>
+### 🏅 GitHub Achievements
+
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=sarah20037&theme=radical&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sarah20037/sarah20037/output/github-contribution-grid-snake.svg" alt="Sarah's GitHub Contribution Snake"/>
